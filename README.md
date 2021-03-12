@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+我是林业科技大学涉外学院的大三学生  
+我通过学习学习到了c语言 java语言 javaweb制作  
+希望在新学期学习到更多的知识 认识更多的朋友
 <!--
 **gch214580995/gch214580995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
